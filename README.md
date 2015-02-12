@@ -1,6 +1,6 @@
 # FirstRepo
 First Repo
 
-*init
-*add
-*commit
+* init
+* add
+* commit
